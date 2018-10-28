@@ -1,0 +1,12 @@
+.icon {
+    text-align: right;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1,h2,p,.navbar-brand,.nav-link {
+    font-family: 'Amatic SC', cursive;
+    font-weight: bold;
+}
